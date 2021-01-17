@@ -10,9 +10,11 @@ The intro Repo for the PT OS DEV Channel
 - Think about what an Operating System realy is
 
 ## Sessions
-Meet times: TBA
-Session Time: 15 ~ 30 mins
-Format: Concepts, Live Code, Experiments, Mini-projects
+*Meet times:* TBA
+
+*Session Time:* 15 ~ 30 mins
+
+*Format:* Concepts, Live Code, Experiments, Mini-projects
 
 
 
